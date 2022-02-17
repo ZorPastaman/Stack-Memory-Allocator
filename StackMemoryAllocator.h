@@ -104,7 +104,7 @@ namespace MemoryAllocators
 		bool Free() noexcept;
 
 		/**
- 		* Starts object allocations from the begin.
+ 		* Starts object allocations from the beginning.
  		*/
 		inline void Reset() noexcept { m_nextPlace = m_buffer; };
 
