@@ -1,4 +1,4 @@
-# Stack-Memory-Allocator
+# Stack Memory Allocator
 
 Usual operators malloc and new are awesome but they have some disadvantages:
 memory allocation is random and memory fragmentation is very possible.
